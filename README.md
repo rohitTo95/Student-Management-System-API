@@ -310,6 +310,6 @@ curl "http://localhost:3000/listSchools?latitude=35.6812&longitude=139.7671"
 
 ---
 
-**Author**: School Management API Team  
+**Author**: Rohit Dutta
 **Version**: 1.0.0  
 **License**: MIT

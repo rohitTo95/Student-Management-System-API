@@ -2,6 +2,8 @@
 
 A Node.js RESTful API built with Express.js and MySQL for managing school data with geospatial functionality. The system allows users to add new schools and retrieve a list of schools sorted by proximity to a user-specified location.
 
+Live URL: https://student-management-system-api-kh95.onrender.com/
+
 ## 🎯 Project Overview
 
 This API provides two core functionalities:
